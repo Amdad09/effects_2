@@ -1,6 +1,10 @@
+import ChatBox from "./components/ChatBox"
+
 function App() {
   return (
-    <div>effects life cycle</div>
+    <div>
+      <ChatBox/>
+    </div>
   )
 }
 
